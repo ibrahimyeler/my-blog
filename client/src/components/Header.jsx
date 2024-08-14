@@ -15,7 +15,7 @@ export default function Header() {
         Blog
       </Link>
 
-      <form className="ml-auto hidden lg:flex items-center">
+      <form className="mx-auto hidden lg:flex items-center">
         <div className="relative">
           <input
             type="text"
